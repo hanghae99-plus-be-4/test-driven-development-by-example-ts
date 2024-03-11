@@ -17,7 +17,7 @@ TypeScript 로 따라하는 Test-driven development by example
 # 진행도
 
 - 1부
-    - [ ] 1장 - 다중 통화를 지원하는 Money 객체
+    - [x] 1장 - 다중 통화를 지원하는 Money 객체
     - [ ] 2장 - 타락한 객체
     - [ ] 3장 - 모두를 위한 평등
     - [ ] 4장 - 프라이버시
